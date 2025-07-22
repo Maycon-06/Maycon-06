@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👾 Pac-Man Style README
 
-<!--
-**Maycon-06/Maycon-06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Pac-Man](https://media.giphy.com/media/11sBLVxNs7v6WA/giphy.gif)
 
-Here are some ideas to get you started:
+Olá! Eu sou o Maycon, em formação como Engenheiro de Software 🚀  
+Apaixonado por tecnologia e jogos clássicos, especialmente Pac-Man! 🟡👻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias que eu jogo (estudo):
+- HTML 🟡  
+- CSS 🔵  
+- JavaScript 👾  
+- React 🚀  
+- TypeScript 🎮  
+- Node.js 💻  
+
+---
+
+![Pac-Man Maze](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
+
+Vamos conectar e criar projetos que dão game over na mesmice! 🎯
