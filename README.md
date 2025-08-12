@@ -1,12 +1,18 @@
-# Olá, eu sou [Seu Nome] 👋
+# Olá, eu sou Maycon 👋
 
 👨‍💻 Desenvolvedor [Front-end/Back-end/Full-stack/Outro]  
 🌍 Baseado em [Sua Cidade/País]  
 ✨ Apaixonado por [Tecnologia, Games, Open Source, etc.]  
 
 ## Habilidades  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+**HTML5**  
+![Progresso](https://progress-bar.dev/90/?title=HTML5&color=ff5733)  
+
+**CSS3**  
+![Progresso](https://progress-bar.dev/85/?title=CSS3&color=2965f1)  
+
+**JavaScript**  
+![Progresso](https://progress-bar.dev/75/?title=JavaScript&color=f0db4f)  
 <!-- Adicione outras tecnologias -->
 
 ## Contato  
