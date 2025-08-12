@@ -6,12 +6,9 @@
 
 ---
 
-## 📊 Linguagens Mais Usadas
+## 📊 Meu Stack de Linguagens
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=
-Maycon-06&hide_progress=false&layout=compact&theme=react&hide_border=true&langs_count=6&card_width=300&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&bg_color=0D1117
-
-*Estatísticas geradas automaticamente pelo GitHub*
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maycon-06&layout=compact&theme=transparent&hide_border=true&title_color=F7DF1E&text_color=FFFFFF&icon_color=F7DF1E&bg_color=0D1117" alt="Linguagens mais usadas" width="400"/>
 
 ## 🛠 Ferramentas
 
