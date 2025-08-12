@@ -8,7 +8,7 @@
 
 ## 📊 Linguagens Mais Usadas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=dracula&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maycon-06&layout=compact&theme=dracula&hide_border=true)
 
 *Estatísticas geradas automaticamente pelo GitHub*
 
