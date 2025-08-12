@@ -1,6 +1,7 @@
 # 👋 Olá, eu sou Maycon
 
 💻 **Desenvolvedor Front-end**  
+❤️ **Apaixonado por tecnologia**  
 🚀 Transformando ideias em código de qualidade  
 
 ---
