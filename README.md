@@ -29,6 +29,8 @@
 
 ---
 
-📫 **Contato:**  
-[mayconlacarv@gmail.com](mailto:mayconlacarv@gmail.com) | 
-[LinkedIn](https://linkedin.com/in/maycon-lagos-de-carvalho-0ab678346)
+## 📡 Contato
+
+[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?logo=gmail&logoColor=black)](mailto:mayconlacarv@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=black)](https://linkedin.com/in/maycon-lagos-de-carvalho-0ab678346)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?logo=whatsapp&logoColor=black)](https://wa.me/5599981924364)
